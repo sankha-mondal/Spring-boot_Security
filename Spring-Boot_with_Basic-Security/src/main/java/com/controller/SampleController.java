@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("sample")		//  parent link
+@RequestMapping("sample")		
 public class SampleController {
 	
 	//  http://localhost:8080/sample/say ==> http://localhost:8080/login
