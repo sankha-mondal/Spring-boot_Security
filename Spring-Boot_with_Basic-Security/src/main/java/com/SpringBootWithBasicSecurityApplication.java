@@ -8,7 +8,7 @@ public class SpringBootWithBasicSecurityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWithBasicSecurityApplication.class, args);
-		System.out.println("port 8080 running...");
+		System.out.println("Spring Boot basic Security running on port 8080 running...");
 	}
 
 }
